@@ -78,3 +78,4 @@ app.*.map.json
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 
+.env
